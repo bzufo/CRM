@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"改了对象");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
