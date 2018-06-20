@@ -1,0 +1,1500 @@
+
+/* Class = "UINavigationItem"; title = "时间选择"; ObjectID = "02d-YA-bpL"; */
+"02d-YA-bpL.title" = "时间选择";
+
+/* Class = "UINavigationItem"; title = "支援查询"; ObjectID = "0Gg-ym-dK0"; */
+"0Gg-ym-dK0.title" = "支援查询";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "0Go-Ss-gnM"; */
+"0Go-Ss-gnM.text" = "姓名";
+
+/* Class = "UILabel"; text = "客户名称"; ObjectID = "0NO-nq-V8W"; */
+"0NO-nq-V8W.text" = "客户名称";
+
+/* Class = "UINavigationItem"; title = "线索详情"; ObjectID = "0Zi-ch-pqS"; */
+"0Zi-ch-pqS.title" = "线索详情";
+
+/* Class = "UITextField"; placeholder = "维修技师"; ObjectID = "0cv-PQ-T7i"; */
+"0cv-PQ-T7i.placeholder" = "维修技师";
+
+/* Class = "UILabel"; text = "客       户"; ObjectID = "0e9-5J-CcA"; */
+"0e9-5J-CcA.text" = "客       户";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "0jn-2a-YtQ"; */
+"0jn-2a-YtQ.headerTitle" = " ";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "0lI-5d-2fN"; */
+"0lI-5d-2fN.title" = "完成";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "0qc-n9-Fob"; */
+"0qc-n9-Fob.title" = "个人设置";
+
+/* Class = "UINavigationItem"; title = "待联络"; ObjectID = "0uS-xd-SZS"; */
+"0uS-xd-SZS.title" = "待联络";
+
+/* Class = "UITableViewSection"; headerTitle = "客户信息"; ObjectID = "0ux-eK-lti"; */
+"0ux-eK-lti.headerTitle" = "客户信息";
+
+/* Class = "UINavigationItem"; title = "添加线索"; ObjectID = "0vE-oj-eCJ"; */
+"0vE-oj-eCJ.title" = "添加线索";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "12o-Us-1Qp"; */
+"12o-Us-1Qp.title" = "保存";
+
+/* Class = "UILabel"; text = "来电号码"; ObjectID = "19j-UH-Tpl"; */
+"19j-UH-Tpl.text" = "来电号码";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "1TC-Jm-WOl"; */
+"1TC-Jm-WOl.text" = "Subtitle";
+
+/* Class = "UITableViewSection"; headerTitle = "回复意见"; ObjectID = "1cw-Vd-FQA"; */
+"1cw-Vd-FQA.headerTitle" = "回复意见";
+
+/* Class = "UITableViewSection"; headerTitle = "  "; ObjectID = "24l-NP-Wge"; */
+"24l-NP-Wge.headerTitle" = "  ";
+
+/* Class = "UIButton"; normalTitle = "拨打电话"; ObjectID = "25r-3I-Quz"; */
+"25r-3I-Quz.normalTitle" = "拨打电话";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "277-B4-keN"; */
+"277-B4-keN.headerTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "手动分配"; ObjectID = "2AK-A9-KZS"; */
+"2AK-A9-KZS.normalTitle" = "手动分配";
+
+/* Class = "UILabel"; text = "默认联络时间设置"; ObjectID = "2Bk-hQ-BFD"; */
+"2Bk-hQ-BFD.text" = "默认联络时间设置";
+
+/* Class = "UINavigationItem"; title = "战败线索详情"; ObjectID = "2Lp-hh-LnY"; */
+"2Lp-hh-LnY.title" = "战败线索详情";
+
+/* Class = "UILabel"; text = "B级"; ObjectID = "2QK-zX-WpZ"; */
+"2QK-zX-WpZ.text" = "B级";
+
+/* Class = "UITextField"; placeholder = "系统故障类别"; ObjectID = "2RY-HW-2Yb"; */
+"2RY-HW-2Yb.placeholder" = "系统故障类别";
+
+/* Class = "UITabBarItem"; title = "行驶证上传"; ObjectID = "2b9-Ai-wVx"; */
+"2b9-Ai-wVx.title" = "行驶证上传";
+
+/* Class = "UITabBarItem"; title = "个人统计"; ObjectID = "2cm-kz-Hgr"; */
+"2cm-kz-Hgr.title" = "个人统计";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2iN-Yz-HPy"; */
+"2iN-Yz-HPy.text" = "Title";
+
+/* Class = "UILabel"; text = "分享人"; ObjectID = "2kV-QK-NgB"; */
+"2kV-QK-NgB.text" = "分享人";
+
+/* Class = "UILabel"; text = "车       系"; ObjectID = "2nQ-Zv-0Dc"; */
+"2nQ-Zv-0Dc.text" = "车       系";
+
+/* Class = "UIBarButtonItem"; title = "上传"; ObjectID = "3C2-xQ-ATU"; */
+"3C2-xQ-ATU.title" = "上传";
+
+/* Class = "UISegmentedControl"; 3Fz-pt-9mX.segmentTitles[0] = "7天"; ObjectID = "3Fz-pt-9mX"; */
+"3Fz-pt-9mX.segmentTitles[0]" = "7天";
+
+/* Class = "UISegmentedControl"; 3Fz-pt-9mX.segmentTitles[1] = "14天"; ObjectID = "3Fz-pt-9mX"; */
+"3Fz-pt-9mX.segmentTitles[1]" = "14天";
+
+/* Class = "UISegmentedControl"; 3Fz-pt-9mX.segmentTitles[2] = "30天"; ObjectID = "3Fz-pt-9mX"; */
+"3Fz-pt-9mX.segmentTitles[2]" = "30天";
+
+/* Class = "UITableViewSection"; headerTitle = "故障现象"; ObjectID = "3Mx-PX-4vo"; */
+"3Mx-PX-4vo.headerTitle" = "故障现象";
+
+/* Class = "UITextField"; placeholder = "标题/故障"; ObjectID = "3Pm-U6-kPr"; */
+"3Pm-U6-kPr.placeholder" = "标题/故障";
+
+/* Class = "UILabel"; text = "活动名称"; ObjectID = "3TP-Dl-mEb"; */
+"3TP-Dl-mEb.text" = "活动名称";
+
+/* Class = "UILabel"; text = "类型"; ObjectID = "3Zd-Qu-gAo"; */
+"3Zd-Qu-gAo.text" = "类型";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "3ai-nw-ZAw"; */
+"3ai-nw-ZAw.text" = "线索来源";
+
+/* Class = "UILabel"; text = "客户"; ObjectID = "3de-2g-xTj"; */
+"3de-2g-xTj.text" = "客户";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3qm-hi-W0f"; */
+"3qm-hi-W0f.text" = "Title";
+
+/* Class = "UILabel"; text = "期望WS回复时间:"; ObjectID = "42i-I1-eaC"; */
+"42i-I1-eaC.text" = "期望WS回复时间:";
+
+/* Class = "UINavigationItem"; title = "案例分享"; ObjectID = "46U-fl-YQA"; */
+"46U-fl-YQA.title" = "案例分享";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "4GI-tY-T93"; */
+"4GI-tY-T93.title" = "完成";
+
+/* Class = "UILabel"; text = "建行储蓄卡账号:"; ObjectID = "4NF-Q9-awq"; */
+"4NF-Q9-awq.text" = "建行储蓄卡账号:";
+
+/* Class = "UINavigationItem"; title = "系统公告"; ObjectID = "4PN-xS-7uG"; */
+"4PN-xS-7uG.title" = "系统公告";
+
+/* Class = "UILabel"; text = "默认模板："; ObjectID = "4ks-Sv-0ne"; */
+"4ks-Sv-0ne.text" = "默认模板：";
+
+/* Class = "UILabel"; text = "当前账户(身份证号码):"; ObjectID = "4rm-Y6-0l1"; */
+"4rm-Y6-0l1.text" = "当前账户(身份证号码):";
+
+/* Class = "UIBarButtonItem"; title = "提交"; ObjectID = "4v8-b2-cqT"; */
+"4v8-b2-cqT.title" = "提交";
+
+/* Class = "UILabel"; text = "待上传"; ObjectID = "5I8-WR-drt"; */
+"5I8-WR-drt.text" = "待上传";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "5Iz-jE-tO9"; */
+"5Iz-jE-tO9.headerTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "待联络"; ObjectID = "5Nq-0y-LOD"; */
+"5Nq-0y-LOD.title" = "待联络";
+
+/* Class = "UILabel"; text = "闽A8080"; ObjectID = "5T0-cM-BzE"; */
+"5T0-cM-BzE.text" = "闽A8080";
+
+/* Class = "UITableViewSection"; headerTitle = "下次联系时间"; ObjectID = "5US-2G-gSM"; */
+"5US-2G-gSM.headerTitle" = "下次联系时间";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "5ZU-jM-SLP"; */
+"5ZU-jM-SLP.text" = "意向等级";
+
+/* Class = "UILabel"; text = "活动名称"; ObjectID = "5fT-V4-udt"; */
+"5fT-V4-udt.text" = "活动名称";
+
+/* Class = "UILabel"; text = "意向车型"; ObjectID = "5g8-ng-rly"; */
+"5g8-ng-rly.text" = "意向车型";
+
+/* Class = "UILabel"; text = "创建时间"; ObjectID = "67B-nY-kcT"; */
+"67B-nY-kcT.text" = "创建时间";
+
+/* Class = "UILabel"; text = "待分配线索数："; ObjectID = "69Z-Ho-Xhl"; */
+"69Z-Ho-Xhl.text" = "待分配线索数：";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "6Du-EF-ebb"; */
+"6Du-EF-ebb.text" = "意向等级";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "6Mm-Ic-Vxt"; */
+"6Mm-Ic-Vxt.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6Oh-Qr-v7G"; */
+"6Oh-Qr-v7G.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "筛选"; ObjectID = "6kK-KJ-5FH"; */
+"6kK-KJ-5FH.title" = "筛选";
+
+/* Class = "UINavigationItem"; title = "战败确认"; ObjectID = "6rM-vS-AhU"; */
+"6rM-vS-AhU.title" = "战败确认";
+
+/* Class = "UILabel"; text = "跟进顾问"; ObjectID = "7AJ-1w-pgg"; */
+"7AJ-1w-pgg.text" = "跟进顾问";
+
+/* Class = "UILabel"; text = "VIN:"; ObjectID = "7GR-fj-au7"; */
+"7GR-fj-au7.text" = "VIN:";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "7Q8-I2-cH2"; */
+"7Q8-I2-cH2.text" = "性别";
+
+/* Class = "UILabel"; text = "系统公告"; ObjectID = "7Qs-lY-ama"; */
+"7Qs-lY-ama.text" = "系统公告";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "7jS-5P-x1u"; */
+"7jS-5P-x1u.text" = "车型";
+
+/* Class = "UILabel"; text = "分配线索"; ObjectID = "7rY-a6-7Tx"; */
+"7rY-a6-7Tx.text" = "分配线索";
+
+/* Class = "UINavigationItem"; title = "待上传线索"; ObjectID = "89l-bX-SVN"; */
+"89l-bX-SVN.title" = "待上传线索";
+
+/* Class = "UILabel"; text = "订交日报表(车系)"; ObjectID = "8Lu-nL-w3Z"; */
+"8Lu-nL-w3Z.text" = "订交日报表(车系)";
+
+/* Class = "UILabel"; text = "待战败审核线索总数:"; ObjectID = "8WD-lm-avd"; */
+"8WD-lm-avd.text" = "待战败审核线索总数:";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "8Xz-nF-QZW"; */
+"8Xz-nF-QZW.text" = "修改密码";
+
+/* Class = "UITableViewSection"; headerTitle = "基础信息"; ObjectID = "8av-xW-69U"; */
+"8av-xW-69U.headerTitle" = "基础信息";
+
+/* Class = "UITableViewSection"; headerTitle = "下次联系时间"; ObjectID = "8qD-Sg-DOO"; */
+"8qD-Sg-DOO.headerTitle" = "下次联系时间";
+
+/* Class = "UIBarButtonItem"; title = "修改"; ObjectID = "9Ch-0J-Z2a"; */
+"9Ch-0J-Z2a.title" = "修改";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "9Ez-aD-dgM"; */
+"9Ez-aD-dgM.text" = "线索来源";
+
+/* Class = "UILabel"; text = "结果"; ObjectID = "9Nt-v0-qt6"; */
+"9Nt-v0-qt6.text" = "结果";
+
+/* Class = "UILabel"; text = "上传附件"; ObjectID = "9Qn-Ih-wMx"; */
+"9Qn-Ih-wMx.text" = "上传附件";
+
+/* Class = "UISegmentedControl"; 9U3-7I-2RB.segmentTitles[0] = "3天"; ObjectID = "9U3-7I-2RB"; */
+"9U3-7I-2RB.segmentTitles[0]" = "3天";
+
+/* Class = "UISegmentedControl"; 9U3-7I-2RB.segmentTitles[1] = "5天"; ObjectID = "9U3-7I-2RB"; */
+"9U3-7I-2RB.segmentTitles[1]" = "5天";
+
+/* Class = "UISegmentedControl"; 9U3-7I-2RB.segmentTitles[2] = "7天"; ObjectID = "9U3-7I-2RB"; */
+"9U3-7I-2RB.segmentTitles[2]" = "7天";
+
+/* Class = "UITableViewSection"; headerTitle = "行驶证"; ObjectID = "9Z4-mQ-IVt"; */
+"9Z4-mQ-IVt.headerTitle" = "行驶证";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "9fk-9o-1XC"; */
+"9fk-9o-1XC.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "点击新增潜客线索信息"; ObjectID = "9ro-8g-dAL"; */
+"9ro-8g-dAL.text" = "点击新增潜客线索信息";
+
+/* Class = "UILabel"; text = "处理时效"; ObjectID = "9vJ-cy-qIp"; */
+"9vJ-cy-qIp.text" = "处理时效";
+
+/* Class = "UILabel"; text = "条"; ObjectID = "A25-9s-0Gg"; */
+"A25-9s-0Gg.text" = "条";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "AME-wb-zVe"; */
+"AME-wb-zVe.normalTitle" = "注销";
+
+/* Class = "UINavigationItem"; title = "附件列表"; ObjectID = "ASD-Qp-hGA"; */
+"ASD-Qp-hGA.title" = "附件列表";
+
+/* Class = "UILabel"; text = "跟进顾问"; ObjectID = "Aal-dP-X2f"; */
+"Aal-dP-X2f.text" = "跟进顾问";
+
+/* Class = "UILabel"; text = "客诉姓名"; ObjectID = "AtL-H0-oXj"; */
+"AtL-H0-oXj.text" = "客诉姓名";
+
+/* Class = "UILabel"; text = "请选择时间"; ObjectID = "BDw-ss-RnO"; */
+"BDw-ss-RnO.text" = "请选择时间";
+
+/* Class = "UINavigationItem"; title = "个人设置"; ObjectID = "BI5-QN-wnG"; */
+"BI5-QN-wnG.title" = "个人设置";
+
+/* Class = "UITableViewSection"; headerTitle = "故障结论（故障点）"; ObjectID = "BQj-zH-d9L"; */
+"BQj-zH-d9L.headerTitle" = "故障结论（故障点）";
+
+/* Class = "UILabel"; text = "类型"; ObjectID = "BWf-Gh-Abv"; */
+"BWf-Gh-Abv.text" = "类型";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "Bwx-GZ-e5d"; */
+"Bwx-GZ-e5d.normalTitle" = "注销";
+
+/* Class = "UINavigationItem"; title = "线索详情"; ObjectID = "Bx9-Pn-rVQ"; */
+"Bx9-Pn-rVQ.title" = "线索详情";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "CGI-vb-8Cm"; */
+"CGI-vb-8Cm.normalTitle" = "注销";
+
+/* Class = "UIButton"; normalTitle = "全选"; ObjectID = "CgH-jH-6MB"; */
+"CgH-jH-6MB.normalTitle" = "全选";
+
+/* Class = "UIButton"; selectedTitle = "全选"; ObjectID = "CgH-jH-6MB"; */
+"CgH-jH-6MB.selectedTitle" = "全选";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "D0u-gi-23i"; */
+"D0u-gi-23i.title" = "保存";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "DMN-e8-5Qm"; */
+"DMN-e8-5Qm.text" = "V1.0.1";
+
+/* Class = "UILabel"; text = "备       注"; ObjectID = "DUX-pc-mFT"; */
+"DUX-pc-mFT.text" = "备       注";
+
+/* Class = "UILabel"; text = "车牌"; ObjectID = "DWU-5M-pdd"; */
+"DWU-5M-pdd.text" = "车牌";
+
+/* Class = "UILabel"; text = "门店线索录入表"; ObjectID = "DdS-z1-Vjf"; */
+"DdS-z1-Vjf.text" = "门店线索录入表";
+
+/* Class = "UINavigationItem"; title = "车型代码"; ObjectID = "DpE-Vs-etM"; */
+"DpE-Vs-etM.title" = "车型代码";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "Dtg-9N-4De"; */
+"Dtg-9N-4De.text" = "结束时间";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "DuS-qX-PpN"; */
+"DuS-qX-PpN.headerTitle" = " ";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "DzS-FI-vYq"; */
+"DzS-FI-vYq.title" = "完成";
+
+/* Class = "UILabel"; text = "意向车系"; ObjectID = "E1b-K7-pAG"; */
+"E1b-K7-pAG.text" = "意向车系";
+
+/* Class = "UILabel"; text = "短信模板设置"; ObjectID = "EYg-YF-AYk"; */
+"EYg-YF-AYk.text" = "短信模板设置";
+
+/* Class = "UILabel"; text = "欢迎您进入本系统"; ObjectID = "EhB-CC-fSb"; */
+"EhB-CC-fSb.text" = "欢迎您进入本系统";
+
+/* Class = "UILabel"; text = "跟进状态"; ObjectID = "EhK-WJ-ACQ"; */
+"EhK-WJ-ACQ.text" = "跟进状态";
+
+/* Class = "UIBarButtonItem"; title = "筛选"; ObjectID = "Ek0-qN-AMu"; */
+"Ek0-qN-AMu.title" = "筛选";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "EvA-C1-8yk"; */
+"EvA-C1-8yk.normalTitle" = "注销";
+
+/* Class = "UITableViewSection"; headerTitle = "基础信息"; ObjectID = "Exs-Kn-9wr"; */
+"Exs-Kn-9wr.headerTitle" = "基础信息";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "F0Q-TL-a5z"; */
+"F0Q-TL-a5z.title" = "完成";
+
+/* Class = "UILabel"; text = "车牌"; ObjectID = "FUj-sW-npX"; */
+"FUj-sW-npX.text" = "车牌";
+
+/* Class = "UILabel"; text = "关键字"; ObjectID = "Fo4-Uj-yXq"; */
+"Fo4-Uj-yXq.text" = "关键字";
+
+/* Class = "UILabel"; text = "下订车色"; ObjectID = "FoV-c2-id6"; */
+"FoV-c2-id6.text" = "下订车色";
+
+/* Class = "UILabel"; text = "车型:"; ObjectID = "Fx6-sa-1zD"; */
+"Fx6-sa-1zD.text" = "车型:";
+
+/* Class = "UITabBarItem"; title = "兑换积分"; ObjectID = "G6b-CL-98O"; */
+"G6b-CL-98O.title" = "兑换积分";
+
+/* Class = "UITableViewSection"; headerTitle = "跟进纪录"; ObjectID = "GKy-2A-8NK"; */
+"GKy-2A-8NK.headerTitle" = "跟进纪录";
+
+/* Class = "UILabel"; text = "故障类别"; ObjectID = "GV8-KD-Jlq"; */
+"GV8-KD-Jlq.text" = "故障类别";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Gcd-y2-CZK"; */
+"Gcd-y2-CZK.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "车牌号"; ObjectID = "Gl8-NL-20Y"; */
+"Gl8-NL-20Y.text" = "车牌号";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "Gme-cC-1Po"; */
+"Gme-cC-1Po.title" = "保存";
+
+/* Class = "UITableViewSection"; headerTitle = "意向信息"; ObjectID = "Gz0-4r-yBa"; */
+"Gz0-4r-yBa.headerTitle" = "意向信息";
+
+/* Class = "UILabel"; text = "创建时间"; ObjectID = "H3m-gl-ALL"; */
+"H3m-gl-ALL.text" = "创建时间";
+
+/* Class = "UINavigationItem"; title = "客诉详情"; ObjectID = "HBh-7m-lvi"; */
+"HBh-7m-lvi.title" = "客诉详情";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "HMC-Cn-e5Y"; */
+"HMC-Cn-e5Y.text" = "意向等级";
+
+/* Class = "UITextField"; placeholder = "技师电话"; ObjectID = "HO2-MZ-aA8"; */
+"HO2-MZ-aA8.placeholder" = "技师电话";
+
+/* Class = "UITextField"; placeholder = "行驶里程(km)"; ObjectID = "HYm-Qo-t0x"; */
+"HYm-Qo-t0x.placeholder" = "行驶里程(km)";
+
+/* Class = "UILabel"; text = "备       注"; ObjectID = "Hm8-Jn-9Db"; */
+"Hm8-Jn-9Db.text" = "备       注";
+
+/* Class = "UILabel"; text = "dfafadasdasdsadsadasd"; ObjectID = "IDm-Uv-eIQ"; */
+"IDm-Uv-eIQ.text" = "dfafadasdasdsadsadasd";
+
+/* Class = "UITabBarItem"; title = "月积分明细"; ObjectID = "IF6-xn-P9d"; */
+"IF6-xn-P9d.title" = "月积分明细";
+
+/* Class = "UILabel"; text = "处理老师"; ObjectID = "ISU-5o-qHg"; */
+"ISU-5o-qHg.text" = "处理老师";
+
+/* Class = "UILabel"; text = "跟进顾问"; ObjectID = "IZf-F6-Kp0"; */
+"IZf-F6-Kp0.text" = "跟进顾问";
+
+/* Class = "UITextField"; placeholder = "选择老师"; ObjectID = "Im7-8l-eu4"; */
+"Im7-8l-eu4.placeholder" = "选择老师";
+
+/* Class = "UILabel"; text = "线索战败确认"; ObjectID = "IqZ-c6-scq"; */
+"IqZ-c6-scq.text" = "线索战败确认";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "Ita-5j-BSe"; */
+"Ita-5j-BSe.text" = "版本更新";
+
+/* Class = "UINavigationItem"; title = "WS简称"; ObjectID = "JLW-k9-1EI"; */
+"JLW-k9-1EI.title" = "WS简称";
+
+/* Class = "UILabel"; text = "车牌"; ObjectID = "JRJ-hJ-2Bt"; */
+"JRJ-hJ-2Bt.text" = "车牌";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "JZ1-81-ysu"; */
+"JZ1-81-ysu.text" = "修改密码";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "Jus-ma-8gQ"; */
+"Jus-ma-8gQ.text" = "线索来源";
+
+/* Class = "UILabel"; text = "创建时间"; ObjectID = "KVf-op-dba"; */
+"KVf-op-dba.text" = "创建时间";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "KYQ-6c-zH6"; */
+"KYQ-6c-zH6.text" = "修改密码";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "KeK-Xz-gDr"; */
+"KeK-Xz-gDr.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "DX7"; ObjectID = "Kfa-w7-n6v"; */
+"Kfa-w7-n6v.text" = "DX7";
+
+/* Class = "UILabel"; text = "备      注"; ObjectID = "Kk8-sR-Phz"; */
+"Kk8-sR-Phz.text" = "备      注";
+
+/* Class = "UILabel"; text = "本期兑换获得购车劵:"; ObjectID = "LIC-7E-8et"; */
+"LIC-7E-8et.text" = "本期兑换获得购车劵:";
+
+/* Class = "UIBarButtonItem"; title = "提交"; ObjectID = "LJx-j5-TgH"; */
+"LJx-j5-TgH.title" = "提交";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "LOu-cy-28o"; */
+"LOu-cy-28o.text" = "0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "LVT-Hl-Inb"; */
+"LVT-Hl-Inb.text" = "Title";
+
+/* Class = "UILabel"; text = "站点"; ObjectID = "Lfw-ob-WLB"; */
+"Lfw-ob-WLB.text" = "站点";
+
+/* Class = "UITextField"; placeholder = "标题和内容"; ObjectID = "LqJ-RP-ad6"; */
+"LqJ-RP-ad6.placeholder" = "标题和内容";
+
+/* Class = "UILabel"; text = "本月新增积分总额:"; ObjectID = "M0D-5y-mx6"; */
+"M0D-5y-mx6.text" = "本月新增积分总额:";
+
+/* Class = "UILabel"; text = "系统公告"; ObjectID = "M7u-rl-JhY"; */
+"M7u-rl-JhY.text" = "系统公告";
+
+/* Class = "UITabBarItem"; title = "已结算积分"; ObjectID = "M8R-YE-X1Z"; */
+"M8R-YE-X1Z.title" = "已结算积分";
+
+/* Class = "UILabel"; text = "是否积分车辆:"; ObjectID = "MHN-iJ-Vvf"; */
+"MHN-iJ-Vvf.text" = "是否积分车辆:";
+
+/* Class = "UILabel"; text = "客       户"; ObjectID = "MRf-0O-CGp"; */
+"MRf-0O-CGp.text" = "客       户";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "MdZ-ED-Dpf"; */
+"MdZ-ED-Dpf.text" = "版本更新";
+
+/* Class = "UISegmentedControl"; Mn6-vc-tq5.segmentTitles[0] = "男"; ObjectID = "Mn6-vc-tq5"; */
+"Mn6-vc-tq5.segmentTitles[0]" = "男";
+
+/* Class = "UISegmentedControl"; Mn6-vc-tq5.segmentTitles[1] = "女"; ObjectID = "Mn6-vc-tq5"; */
+"Mn6-vc-tq5.segmentTitles[1]" = "女";
+
+/* Class = "UILabel"; text = "手机号码"; ObjectID = "MwR-wc-t6z"; */
+"MwR-wc-t6z.text" = "手机号码";
+
+/* Class = "UISegmentedControl"; N3T-Ya-rsp.segmentTitles[0] = "3天"; ObjectID = "N3T-Ya-rsp"; */
+"N3T-Ya-rsp.segmentTitles[0]" = "3天";
+
+/* Class = "UISegmentedControl"; N3T-Ya-rsp.segmentTitles[1] = "7天"; ObjectID = "N3T-Ya-rsp"; */
+"N3T-Ya-rsp.segmentTitles[1]" = "7天";
+
+/* Class = "UISegmentedControl"; N3T-Ya-rsp.segmentTitles[2] = "14天"; ObjectID = "N3T-Ya-rsp"; */
+"N3T-Ya-rsp.segmentTitles[2]" = "14天";
+
+/* Class = "UILabel"; text = "跟进状态"; ObjectID = "N64-EF-rvD"; */
+"N64-EF-rvD.text" = "跟进状态";
+
+/* Class = "UILabel"; text = "V1.0.0"; ObjectID = "NJS-kT-gV6"; */
+"NJS-kT-gV6.text" = "V1.0.0";
+
+/* Class = "UILabel"; text = "车牌"; ObjectID = "NSO-f7-FYD"; */
+"NSO-f7-FYD.text" = "车牌";
+
+/* Class = "UISegmentedControl"; Nby-UW-WsV.segmentTitles[0] = "1天"; ObjectID = "Nby-UW-WsV"; */
+"Nby-UW-WsV.segmentTitles[0]" = "1天";
+
+/* Class = "UISegmentedControl"; Nby-UW-WsV.segmentTitles[1] = "2天"; ObjectID = "Nby-UW-WsV"; */
+"Nby-UW-WsV.segmentTitles[1]" = "2天";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "Ntd-eh-Z2y"; */
+"Ntd-eh-Z2y.text" = "版本更新";
+
+/* Class = "UILabel"; text = "类型"; ObjectID = "Oai-gp-41D"; */
+"Oai-gp-41D.text" = "类型";
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "Os0-j5-yPW"; */
+"Os0-j5-yPW.placeholder" = "用户名";
+
+/* Class = "UILabel"; text = "本期兑换获得现金:"; ObjectID = "OtM-pt-XfV"; */
+"OtM-pt-XfV.text" = "本期兑换获得现金:";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "Oy1-dj-IAt"; */
+"Oy1-dj-IAt.text" = "线索来源";
+
+/* Class = "UILabel"; text = "积分分值:"; ObjectID = "P1O-Dh-Ocp"; */
+"P1O-Dh-Ocp.text" = "积分分值:";
+
+/* Class = "UILabel"; text = "当前账户累计积分总额:"; ObjectID = "P1h-T2-PlJ"; */
+"P1h-T2-PlJ.text" = "当前账户累计积分总额:";
+
+/* Class = "UINavigationItem"; title = "详细"; ObjectID = "PKe-4I-0Xw"; */
+"PKe-4I-0Xw.title" = "详细";
+
+/* Class = "UITextField"; placeholder = "VIN后7位"; ObjectID = "PSV-Ui-0vS"; */
+"PSV-Ui-0vS.placeholder" = "VIN后7位";
+
+/* Class = "UILabel"; text = "统计我的订交业绩"; ObjectID = "PjP-Hn-gcP"; */
+"PjP-Hn-gcP.text" = "统计我的订交业绩";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Pk2-yx-D0V"; */
+"Pk2-yx-D0V.text" = "0";
+
+/* Class = "UILabel"; text = "追踪状态"; ObjectID = "PuR-WE-dEz"; */
+"PuR-WE-dEz.text" = "追踪状态";
+
+/* Class = "UITableViewSection"; headerTitle = "积分兑换"; ObjectID = "QMg-NV-LlN"; */
+"QMg-NV-LlN.headerTitle" = "积分兑换";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "QXj-ur-0u6"; */
+"QXj-ur-0u6.text" = "车型";
+
+/* Class = "UINavigationItem"; title = "默认联络时间"; ObjectID = "Qbb-lV-nre"; */
+"Qbb-lV-nre.title" = "默认联络时间";
+
+/* Class = "UITextField"; placeholder = "请输入车牌号"; ObjectID = "QoA-43-yiF"; */
+"QoA-43-yiF.placeholder" = "请输入车牌号";
+
+/* Class = "UISegmentedControl"; R3s-Ih-JcA.segmentTitles[0] = "跟进状态"; ObjectID = "R3s-Ih-JcA"; */
+"R3s-Ih-JcA.segmentTitles[0]" = "跟进状态";
+
+/* Class = "UISegmentedControl"; R3s-Ih-JcA.segmentTitles[1] = "销售顾问"; ObjectID = "R3s-Ih-JcA"; */
+"R3s-Ih-JcA.segmentTitles[1]" = "销售顾问";
+
+/* Class = "UISegmentedControl"; R3s-Ih-JcA.segmentTitles[2] = "线索等级"; ObjectID = "R3s-Ih-JcA"; */
+"R3s-Ih-JcA.segmentTitles[2]" = "线索等级";
+
+/* Class = "UITableViewSection"; headerTitle = "默认模板"; ObjectID = "RDz-GO-xhx"; */
+"RDz-GO-xhx.headerTitle" = "默认模板";
+
+/* Class = "UILabel"; text = "客诉编号"; ObjectID = "RI9-m8-gVh"; */
+"RI9-m8-gVh.text" = "客诉编号";
+
+/* Class = "UILabel"; text = "电       话"; ObjectID = "RUM-Mb-70Y"; */
+"RUM-Mb-70Y.text" = "电       话";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "RaN-eT-Cdl"; */
+"RaN-eT-Cdl.text" = "车型";
+
+/* Class = "UINavigationItem"; title = "线索激活"; ObjectID = "Rtu-tD-ApG"; */
+"Rtu-tD-ApG.title" = "线索激活";
+
+/* Class = "UILabel"; text = "级别:"; ObjectID = "Ry6-H0-eCa"; */
+"Ry6-H0-eCa.text" = "级别:";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "S0E-Wn-sxr"; */
+"S0E-Wn-sxr.text" = "修改密码";
+
+/* Class = "UILabel"; text = "处理状态"; ObjectID = "SDQ-i2-SM8"; */
+"SDQ-i2-SM8.text" = "处理状态";
+
+/* Class = "UILabel"; text = "系统故障类别"; ObjectID = "SEZ-hz-RXl"; */
+"SEZ-hz-RXl.text" = "系统故障类别";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "SNu-ye-tLw"; */
+"SNu-ye-tLw.text" = "车型";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "SR3-kp-bV7"; */
+"SR3-kp-bV7.text" = "状态";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "SkX-wd-mVg"; */
+"SkX-wd-mVg.text" = "线索来源";
+
+/* Class = "UINavigationItem"; title = "筛选"; ObjectID = "SlF-a8-RZ3"; */
+"SlF-a8-RZ3.title" = "筛选";
+
+/* Class = "UINavigationItem"; title = "分配线索"; ObjectID = "SlG-kR-HEt"; */
+"SlG-kR-HEt.title" = "分配线索";
+
+/* Class = "UILabel"; text = "联系时间"; ObjectID = "T1R-ee-0Y9"; */
+"T1R-ee-0Y9.text" = "联系时间";
+
+/* Class = "UITextField"; placeholder = "搜索WS站"; ObjectID = "T3Z-Py-OBV"; */
+"T3Z-Py-OBV.placeholder" = "搜索WS站";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "T3c-4W-eBV"; */
+"T3c-4W-eBV.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "T45-yz-NST"; */
+"T45-yz-NST.title" = "完成";
+
+/* Class = "UILabel"; text = "备       注"; ObjectID = "TSb-Vf-qE8"; */
+"TSb-Vf-qE8.text" = "备       注";
+
+/* Class = "UITabBarItem"; title = "业绩报表"; ObjectID = "TX3-aj-Bno"; */
+"TX3-aj-Bno.title" = "业绩报表";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "Tlm-c7-dzL"; */
+"Tlm-c7-dzL.text" = "版本更新";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "Toe-g3-C02"; */
+"Toe-g3-C02.normalTitle" = "保存";
+
+/* Class = "UITextField"; placeholder = "网点代码"; ObjectID = "U2V-oz-42S"; */
+"U2V-oz-42S.placeholder" = "网点代码";
+
+/* Class = "UISegmentedControl"; U3y-Bo-Osg.segmentTitles[0] = "东南"; ObjectID = "U3y-Bo-Osg"; */
+"U3y-Bo-Osg.segmentTitles[0]" = "东南";
+
+/* Class = "UISegmentedControl"; U3y-Bo-Osg.segmentTitles[1] = "三菱"; ObjectID = "U3y-Bo-Osg"; */
+"U3y-Bo-Osg.segmentTitles[1]" = "三菱";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "U4f-th-bVo"; */
+"U4f-th-bVo.text" = "性别";
+
+/* Class = "UITableViewSection"; headerTitle = "线索管理报表(仅网点可查)"; ObjectID = "U7S-9m-hfh"; */
+"U7S-9m-hfh.headerTitle" = "线索管理报表(仅网点可查)";
+
+/* Class = "UINavigationItem"; title = "异常线索"; ObjectID = "UEP-iS-Rle"; */
+"UEP-iS-Rle.title" = "异常线索";
+
+/* Class = "UITabBarItem"; title = "我的账户"; ObjectID = "UGU-64-oKJ"; */
+"UGU-64-oKJ.title" = "我的账户";
+
+/* Class = "UILabel"; text = "订交日报表(顾问)"; ObjectID = "UpB-yy-AfW"; */
+"UpB-yy-AfW.text" = "订交日报表(顾问)";
+
+/* Class = "UIBarButtonItem"; title = "重新分配"; ObjectID = "Upl-zB-5Ro"; */
+"Upl-zB-5Ro.title" = "重新分配";
+
+/* Class = "UILabel"; text = "下次联系时间"; ObjectID = "UwS-W6-afB"; */
+"UwS-W6-afB.text" = "下次联系时间";
+
+/* Class = "UILabel"; text = "追踪异常线索列表"; ObjectID = "VEc-6O-KCI"; */
+"VEc-6O-KCI.text" = "追踪异常线索列表";
+
+/* Class = "UINavigationItem"; title = "筛选"; ObjectID = "VF8-yw-f1R"; */
+"VF8-yw-f1R.title" = "筛选";
+
+/* Class = "UILabel"; text = "DX7"; ObjectID = "VP8-Uy-aR4"; */
+"VP8-Uy-aR4.text" = "DX7";
+
+/* Class = "UINavigationItem"; title = "短信模板设置"; ObjectID = "Vm3-KN-818"; */
+"Vm3-KN-818.title" = "短信模板设置";
+
+/* Class = "UILabel"; text = "当前账户可兑换积分:"; ObjectID = "VvW-sx-Wp5"; */
+"VvW-sx-Wp5.text" = "当前账户可兑换积分:";
+
+/* Class = "UITableViewSection"; headerTitle = "基础信息"; ObjectID = "W0d-G2-QMi"; */
+"W0d-G2-QMi.headerTitle" = "基础信息";
+
+/* Class = "UITableViewSection"; headerTitle = " 战败确认"; ObjectID = "WQi-Hk-C65"; */
+"WQi-Hk-C65.headerTitle" = " 战败确认";
+
+/* Class = "UISegmentedControl"; WUT-Md-UZZ.segmentTitles[0] = "男"; ObjectID = "WUT-Md-UZZ"; */
+"WUT-Md-UZZ.segmentTitles[0]" = "男";
+
+/* Class = "UISegmentedControl"; WUT-Md-UZZ.segmentTitles[1] = "女"; ObjectID = "WUT-Md-UZZ"; */
+"WUT-Md-UZZ.segmentTitles[1]" = "女";
+
+/* Class = "UILabel"; text = "查看跟进记录"; ObjectID = "Wg1-EX-bw6"; */
+"Wg1-EX-bw6.text" = "查看跟进记录";
+
+/* Class = "UILabel"; text = "线索分配规则配置"; ObjectID = "Whs-Rk-dA0"; */
+"Whs-Rk-dA0.text" = "线索分配规则配置";
+
+/* Class = "UILabel"; text = "行驶证上传"; ObjectID = "Ws8-4E-cW0"; */
+"Ws8-4E-cW0.text" = "行驶证上传";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "Wth-5V-5Ow"; */
+"Wth-5V-5Ow.text" = "V1.0.1";
+
+/* Class = "UITabBarItem"; title = "客诉管理"; ObjectID = "Wx8-IN-Wac"; */
+"Wx8-IN-Wac.title" = "客诉管理";
+
+/* Class = "UILabel"; text = "客户姓名"; ObjectID = "XDJ-pA-wXh"; */
+"XDJ-pA-wXh.text" = "客户姓名";
+
+/* Class = "UINavigationItem"; title = "联系记录"; ObjectID = "XIr-Sb-an2"; */
+"XIr-Sb-an2.title" = "联系记录";
+
+/* Class = "UILabel"; text = "用户"; ObjectID = "XJI-Ys-bzc"; */
+"XJI-Ys-bzc.text" = "用户";
+
+/* Class = "UILabel"; text = "岗位:"; ObjectID = "XQ4-JK-Wbi"; */
+"XQ4-JK-Wbi.text" = "岗位:";
+
+/* Class = "UILabel"; text = "跟进顾问"; ObjectID = "XS2-hF-iHI"; */
+"XS2-hF-iHI.text" = "跟进顾问";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "XY8-E6-9fG"; */
+"XY8-E6-9fG.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "车系"; ObjectID = "XtV-V5-4E7"; */
+"XtV-V5-4E7.title" = "车系";
+
+/* Class = "UILabel"; text = "查询/重新分配跟进中线索"; ObjectID = "Xzj-mF-yQY"; */
+"Xzj-mF-yQY.text" = "查询/重新分配跟进中线索";
+
+/* Class = "UISegmentedControl"; YCQ-2Z-CPG.segmentTitles[0] = "东南"; ObjectID = "YCQ-2Z-CPG"; */
+"YCQ-2Z-CPG.segmentTitles[0]" = "东南";
+
+/* Class = "UISegmentedControl"; YCQ-2Z-CPG.segmentTitles[1] = "三菱"; ObjectID = "YCQ-2Z-CPG"; */
+"YCQ-2Z-CPG.segmentTitles[1]" = "三菱";
+
+/* Class = "UILabel"; text = "意向车系"; ObjectID = "YCo-WX-KXY"; */
+"YCo-WX-KXY.text" = "意向车系";
+
+/* Class = "UITabBarItem"; title = "我的线索"; ObjectID = "YDf-2J-Ap1"; */
+"YDf-2J-Ap1.title" = "我的线索";
+
+/* Class = "UILabel"; text = "客户名称"; ObjectID = "YNW-nP-PkH"; */
+"YNW-nP-PkH.text" = "客户名称";
+
+/* Class = "UIButton"; normalTitle = "筛选"; ObjectID = "Ygr-x7-DIA"; */
+"Ygr-x7-DIA.normalTitle" = "筛选";
+
+/* Class = "UILabel"; text = "C级"; ObjectID = "Yjf-E5-J2Y"; */
+"Yjf-E5-J2Y.text" = "C级";
+
+/* Class = "UILabel"; text = "点击上传潜在线索信息目前有0条线索待上传"; ObjectID = "Ytv-49-RSL"; */
+"Ytv-49-RSL.text" = "点击上传潜在线索信息目前有0条线索待上传";
+
+/* Class = "UISegmentedControl"; YwG-4v-pDh.segmentTitles[0] = "未上传"; ObjectID = "YwG-4v-pDh"; */
+"YwG-4v-pDh.segmentTitles[0]" = "未上传";
+
+/* Class = "UISegmentedControl"; YwG-4v-pDh.segmentTitles[1] = "已上传"; ObjectID = "YwG-4v-pDh"; */
+"YwG-4v-pDh.segmentTitles[1]" = "已上传";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "ZBk-rG-io8"; */
+"ZBk-rG-io8.text" = "开始时间";
+
+/* Class = "UILabel"; text = "下订品牌"; ObjectID = "ZJm-xM-Dty"; */
+"ZJm-xM-Dty.text" = "下订品牌";
+
+/* Class = "UILabel"; text = "销售日期"; ObjectID = "ZfU-ey-Sbj"; */
+"ZfU-ey-Sbj.text" = "销售日期";
+
+/* Class = "UILabel"; text = "手机号码"; ObjectID = "ZgC-tx-bdS"; */
+"ZgC-tx-bdS.text" = "手机号码";
+
+/* Class = "UILabel"; text = "DLR:"; ObjectID = "ZvI-Gx-vL4"; */
+"ZvI-Gx-vL4.text" = "DLR:";
+
+/* Class = "UILabel"; text = "等级"; ObjectID = "Zz5-Se-d4V"; */
+"Zz5-Se-d4V.text" = "等级";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "a2I-IW-3C5"; */
+"a2I-IW-3C5.text" = "车型";
+
+/* Class = "UIBarButtonItem"; title = "筛选"; ObjectID = "a2d-AG-XxS"; */
+"a2d-AG-XxS.title" = "筛选";
+
+/* Class = "UITextField"; placeholder = "车牌"; ObjectID = "a6t-0e-7rc"; */
+"a6t-0e-7rc.placeholder" = "车牌";
+
+/* Class = "UILabel"; text = "车系"; ObjectID = "a9G-ul-9TE"; */
+"a9G-ul-9TE.text" = "车系";
+
+/* Class = "UIBarButtonItem"; title = "重新分配"; ObjectID = "aJg-U1-Uqf"; */
+"aJg-U1-Uqf.title" = "重新分配";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "aOS-N1-mqg"; */
+"aOS-N1-mqg.text" = "修改密码";
+
+/* Class = "UILabel"; text = "电       话"; ObjectID = "aTL-as-OzS"; */
+"aTL-as-OzS.text" = "电       话";
+
+/* Class = "UITableViewSection"; headerTitle = "意向信息"; ObjectID = "alk-yB-Szb"; */
+"alk-yB-Szb.headerTitle" = "意向信息";
+
+/* Class = "UILabel"; text = "车系"; ObjectID = "atF-pI-XgU"; */
+"atF-pI-XgU.text" = "车系";
+
+/* Class = "UINavigationItem"; title = "详情"; ObjectID = "auK-K8-vgX"; */
+"auK-K8-vgX.title" = "详情";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "avv-y1-LdE"; */
+"avv-y1-LdE.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "统计我的线索"; ObjectID = "ayH-T7-w82"; */
+"ayH-T7-w82.text" = "统计我的线索";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "b3d-rf-Xmt"; */
+"b3d-rf-Xmt.headerTitle" = " ";
+
+/* Class = "UINavigationItem"; title = "结案"; ObjectID = "b5D-w4-SCn"; */
+"b5D-w4-SCn.title" = "结案";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "b9j-JO-r71"; */
+"b9j-JO-r71.title" = "完成";
+
+/* Class = "UILabel"; text = "系统公告"; ObjectID = "bMi-wa-dZU"; */
+"bMi-wa-dZU.text" = "系统公告";
+
+/* Class = "UILabel"; text = "网点:"; ObjectID = "bNd-XK-XBn"; */
+"bNd-XK-XBn.text" = "网点:";
+
+/* Class = "UIBarButtonItem"; title = "操作"; ObjectID = "bSZ-BG-EzS"; */
+"bSZ-BG-EzS.title" = "操作";
+
+/* Class = "UISegmentedControl"; bdf-Fp-KLL.segmentTitles[0] = "厂商线索"; ObjectID = "bdf-Fp-KLL"; */
+"bdf-Fp-KLL.segmentTitles[0]" = "厂商线索";
+
+/* Class = "UISegmentedControl"; bdf-Fp-KLL.segmentTitles[1] = "DLR录入线索"; ObjectID = "bdf-Fp-KLL"; */
+"bdf-Fp-KLL.segmentTitles[1]" = "DLR录入线索";
+
+/* Class = "UISegmentedControl"; bdf-Fp-KLL.segmentTitles[2] = "采集平台"; ObjectID = "bdf-Fp-KLL"; */
+"bdf-Fp-KLL.segmentTitles[2]" = "采集平台";
+
+/* Class = "UISegmentedControl"; bdf-Fp-KLL.segmentTitles[3] = "ALL"; ObjectID = "bdf-Fp-KLL"; */
+"bdf-Fp-KLL.segmentTitles[3]" = "ALL";
+
+/* Class = "UILabel"; text = "客户名称"; ObjectID = "bi5-2b-kis"; */
+"bi5-2b-kis.text" = "客户名称";
+
+/* Class = "UILabel"; text = "积分用于兑换购车劵:"; ObjectID = "bol-L3-nbr"; */
+"bol-L3-nbr.text" = "积分用于兑换购车劵:";
+
+/* Class = "UILabel"; text = "修改密码"; ObjectID = "c80-Ch-jS7"; */
+"c80-Ch-jS7.text" = "修改密码";
+
+/* Class = "UILabel"; text = "系统公告"; ObjectID = "cGR-SB-XH8"; */
+"cGR-SB-XH8.text" = "系统公告";
+
+/* Class = "UILabel"; text = "线索跟进表"; ObjectID = "cZT-wZ-vLm"; */
+"cZT-wZ-vLm.text" = "线索跟进表";
+
+/* Class = "UITableViewSection"; headerTitle = "兑换所获"; ObjectID = "ced-UN-rXT"; */
+"ced-UN-rXT.headerTitle" = "兑换所获";
+
+/* Class = "UILabel"; text = "里       程"; ObjectID = "clj-MM-cQj"; */
+"clj-MM-cQj.text" = "里       程";
+
+/* Class = "UISegmentedControl"; cnR-1f-6aX.segmentTitles[0] = "H级"; ObjectID = "cnR-1f-6aX"; */
+"cnR-1f-6aX.segmentTitles[0]" = "H级";
+
+/* Class = "UISegmentedControl"; cnR-1f-6aX.segmentTitles[1] = "A级"; ObjectID = "cnR-1f-6aX"; */
+"cnR-1f-6aX.segmentTitles[1]" = "A级";
+
+/* Class = "UISegmentedControl"; cnR-1f-6aX.segmentTitles[2] = "B级"; ObjectID = "cnR-1f-6aX"; */
+"cnR-1f-6aX.segmentTitles[2]" = "B级";
+
+/* Class = "UISegmentedControl"; cnR-1f-6aX.segmentTitles[3] = "C级"; ObjectID = "cnR-1f-6aX"; */
+"cnR-1f-6aX.segmentTitles[3]" = "C级";
+
+/* Class = "UISegmentedControl"; cnR-1f-6aX.segmentTitles[4] = "未知"; ObjectID = "cnR-1f-6aX"; */
+"cnR-1f-6aX.segmentTitles[4]" = "未知";
+
+/* Class = "UISegmentedControl"; csj-rS-s7N.segmentTitles[0] = "现金"; ObjectID = "csj-rS-s7N"; */
+"csj-rS-s7N.segmentTitles[0]" = "现金";
+
+/* Class = "UISegmentedControl"; csj-rS-s7N.segmentTitles[1] = "购车劵"; ObjectID = "csj-rS-s7N"; */
+"csj-rS-s7N.segmentTitles[1]" = "购车劵";
+
+/* Class = "UILabel"; text = "电       话"; ObjectID = "d2J-yn-IPP"; */
+"d2J-yn-IPP.text" = "电       话";
+
+/* Class = "UILabel"; text = "追踪状态"; ObjectID = "d2Y-oG-nGF"; */
+"d2Y-oG-nGF.text" = "追踪状态";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "dFG-fi-lfO"; */
+"dFG-fi-lfO.placeholder" = "密码";
+
+/* Class = "UIButton"; normalTitle = "战败确认"; ObjectID = "dRZ-fd-IsI"; */
+"dRZ-fd-IsI.normalTitle" = "战败确认";
+
+/* Class = "UILabel"; text = "V5"; ObjectID = "dac-cJ-hPI"; */
+"dac-cJ-hPI.text" = "V5";
+
+/* Class = "UILabel"; text = "联系时间"; ObjectID = "dbL-Yy-iJk"; */
+"dbL-Yy-iJk.text" = "联系时间";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "dbt-qy-Cbv"; */
+"dbt-qy-Cbv.text" = "意向等级";
+
+/* Class = "UISegmentedControl"; de3-pZ-ugY.segmentTitles[0] = "手动"; ObjectID = "de3-pZ-ugY"; */
+"de3-pZ-ugY.segmentTitles[0]" = "手动";
+
+/* Class = "UISegmentedControl"; de3-pZ-ugY.segmentTitles[1] = "自动"; ObjectID = "de3-pZ-ugY"; */
+"de3-pZ-ugY.segmentTitles[1]" = "自动";
+
+/* Class = "UIBarButtonItem"; title = "更多"; ObjectID = "dpS-db-omZ"; */
+"dpS-db-omZ.title" = "更多";
+
+/* Class = "UILabel"; text = "厂端线索跟进表"; ObjectID = "duV-Zy-afa"; */
+"duV-Zy-afa.text" = "厂端线索跟进表";
+
+/* Class = "UISegmentedControl"; dym-nj-DbB.segmentTitles[0] = "男"; ObjectID = "dym-nj-DbB"; */
+"dym-nj-DbB.segmentTitles[0]" = "男";
+
+/* Class = "UISegmentedControl"; dym-nj-DbB.segmentTitles[1] = "女"; ObjectID = "dym-nj-DbB"; */
+"dym-nj-DbB.segmentTitles[1]" = "女";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "e6h-U6-Nqz"; */
+"e6h-U6-Nqz.text" = "意向等级";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "eWK-me-DiJ"; */
+"eWK-me-DiJ.headerTitle" = " ";
+
+/* Class = "UITextField"; placeholder = "单位分"; ObjectID = "egC-gn-LW1"; */
+"egC-gn-LW1.placeholder" = "单位分";
+
+/* Class = "UILabel"; text = "门店线索录入表"; ObjectID = "ehb-H8-Gwg"; */
+"ehb-H8-Gwg.text" = "门店线索录入表";
+
+/* Class = "UIBarButtonItem"; title = "激活"; ObjectID = "ejq-xt-lAR"; */
+"ejq-xt-lAR.title" = "激活";
+
+/* Class = "UISegmentedControl"; esD-Q3-cBG.segmentTitles[0] = "回复"; ObjectID = "esD-Q3-cBG"; */
+"esD-Q3-cBG.segmentTitles[0]" = "回复";
+
+/* Class = "UISegmentedControl"; esD-Q3-cBG.segmentTitles[1] = "申请结案"; ObjectID = "esD-Q3-cBG"; */
+"esD-Q3-cBG.segmentTitles[1]" = "申请结案";
+
+/* Class = "UILabel"; text = "跟进状态"; ObjectID = "esK-m5-U7y"; */
+"esK-m5-U7y.text" = "跟进状态";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "evb-vU-jAc"; */
+"evb-vU-jAc.normalTitle" = "保存";
+
+/* Class = "UILabel"; text = "活动名称"; ObjectID = "f0n-CY-AIi"; */
+"f0n-CY-AIi.text" = "活动名称";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "f1K-ZD-I7g"; */
+"f1K-ZD-I7g.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "f6c-Eq-6ZE"; */
+"f6c-Eq-6ZE.text" = "意向等级";
+
+/* Class = "UILabel"; text = "客       户"; ObjectID = "f9l-wR-y2I"; */
+"f9l-wR-y2I.text" = "客       户";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "fA3-oT-tQ3"; */
+"fA3-oT-tQ3.headerTitle" = " ";
+
+/* Class = "UITextField"; placeholder = "车型"; ObjectID = "fDZ-0h-3xZ"; */
+"fDZ-0h-3xZ.placeholder" = "车型";
+
+/* Class = "UILabel"; text = "客诉编号："; ObjectID = "fF6-ud-J3x"; */
+"fF6-ud-J3x.text" = "客诉编号：";
+
+/* Class = "UILabel"; text = "销售顾问："; ObjectID = "fFH-qg-mLp"; */
+"fFH-qg-mLp.text" = "销售顾问：";
+
+/* Class = "UILabel"; text = "意向车系"; ObjectID = "fH3-DY-CaK"; */
+"fH3-DY-CaK.text" = "意向车系";
+
+/* Class = "UITabBarItem"; title = "管理报表"; ObjectID = "fPM-CV-ULi"; */
+"fPM-CV-ULi.title" = "管理报表";
+
+/* Class = "UILabel"; text = "跟进状态"; ObjectID = "fYY-Zi-Ive"; */
+"fYY-Zi-Ive.text" = "跟进状态";
+
+/* Class = "UILabel"; text = "车系"; ObjectID = "fr5-EI-jYT"; */
+"fr5-EI-jYT.text" = "车系";
+
+/* Class = "UINavigationItem"; title = "选择顾问"; ObjectID = "g2i-MB-RrV"; */
+"g2i-MB-RrV.title" = "选择顾问";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "gHu-4p-sOd"; */
+"gHu-4p-sOd.text" = "V1.0.1";
+
+/* Class = "UIButton"; normalTitle = "发送短信"; ObjectID = "gIU-SA-4jV"; */
+"gIU-SA-4jV.normalTitle" = "发送短信";
+
+/* Class = "UITableViewSection"; headerTitle = "维修过程"; ObjectID = "gKO-c5-4La"; */
+"gKO-c5-4La.headerTitle" = "维修过程";
+
+/* Class = "UISegmentedControl"; gR4-kp-Khk.segmentTitles[0] = "东南"; ObjectID = "gR4-kp-Khk"; */
+"gR4-kp-Khk.segmentTitles[0]" = "东南";
+
+/* Class = "UISegmentedControl"; gR4-kp-Khk.segmentTitles[1] = "三菱"; ObjectID = "gR4-kp-Khk"; */
+"gR4-kp-Khk.segmentTitles[1]" = "三菱";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "gVC-gK-emA"; */
+"gVC-gK-emA.title" = "返回";
+
+/* Class = "UILabel"; text = "备      注"; ObjectID = "geN-2N-KY4"; */
+"geN-2N-KY4.text" = "备      注";
+
+/* Class = "UILabel"; text = "客       户"; ObjectID = "gnq-Nn-p7H"; */
+"gnq-Nn-p7H.text" = "客       户";
+
+/* Class = "UILabel"; text = "关键字"; ObjectID = "gpd-tg-xv6"; */
+"gpd-tg-xv6.text" = "关键字";
+
+/* Class = "UILabel"; text = "下订车系"; ObjectID = "grM-Gg-AvT"; */
+"grM-Gg-AvT.text" = "下订车系";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "h1Y-Q1-P7T"; */
+"h1Y-Q1-P7T.text" = "线索来源";
+
+/* Class = "UILabel"; text = "意向品牌"; ObjectID = "h5M-Tv-EDt"; */
+"h5M-Tv-EDt.text" = "意向品牌";
+
+/* Class = "UILabel"; text = "H级"; ObjectID = "h6t-Ky-xoO"; */
+"h6t-Ky-xoO.text" = "H级";
+
+/* Class = "UILabel"; text = "备      注"; ObjectID = "hEC-8f-deH"; */
+"hEC-8f-deH.text" = "备      注";
+
+/* Class = "UINavigationItem"; title = "线索分配规则"; ObjectID = "hEe-ZF-JHc"; */
+"hEe-ZF-JHc.title" = "线索分配规则";
+
+/* Class = "UILabel"; text = "厂端线索跟进表(先行者)"; ObjectID = "hcG-84-2uk"; */
+"hcG-84-2uk.text" = "厂端线索跟进表(先行者)";
+
+/* Class = "UIBarButtonItem"; title = "上传"; ObjectID = "hf8-M8-g3y"; */
+"hf8-M8-g3y.title" = "上传";
+
+/* Class = "UILabel"; text = "关键字"; ObjectID = "hjk-5j-rv7"; */
+"hjk-5j-rv7.text" = "关键字";
+
+/* Class = "UITableViewSection"; headerTitle = "管理"; ObjectID = "i3t-F4-VGo"; */
+"i3t-F4-VGo.headerTitle" = "管理";
+
+/* Class = "UILabel"; text = "旧密码"; ObjectID = "i80-O9-qta"; */
+"i80-O9-qta.text" = "旧密码";
+
+/* Class = "UIBarButtonItem"; title = "修改"; ObjectID = "j32-HO-2OB"; */
+"j32-HO-2OB.title" = "修改";
+
+/* Class = "UILabel"; text = "已选定线索数："; ObjectID = "j6p-ZF-6B2"; */
+"j6p-ZF-6B2.text" = "已选定线索数：";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "j8k-og-GtH"; */
+"j8k-og-GtH.title" = "个人设置";
+
+/* Class = "UINavigationItem"; title = "报表"; ObjectID = "jYP-sc-bAW"; */
+"jYP-sc-bAW.title" = "报表";
+
+/* Class = "UIButton"; normalTitle = "战败驳回"; ObjectID = "jkF-zd-puP"; */
+"jkF-zd-puP.normalTitle" = "战败驳回";
+
+/* Class = "UILabel"; text = "XXX先生/女士，您好！感谢您对东南DX7车型的关注，欢迎您莅临我们的4S店看车试驾。因无法接通您的电话，请您看到留言后抽空给我回电，我会竭诚为您提供周到的购车咨询服务。"; ObjectID = "jpI-F0-w5X"; */
+"jpI-F0-w5X.text" = "XXX先生/女士，您好！感谢您对东南DX7车型的关注，欢迎您莅临我们的4S店看车试驾。因无法接通您的电话，请您看到留言后抽空给我回电，我会竭诚为您提供周到的购车咨询服务。";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "jvF-7O-43O"; */
+"jvF-7O-43O.text" = "开始时间";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "k4g-06-it0"; */
+"k4g-06-it0.normalTitle" = "提交";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kB9-qz-soi"; */
+"kB9-qz-soi.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kEq-op-1nB"; */
+"kEq-op-1nB.text" = "Title";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "kKd-4N-qda"; */
+"kKd-4N-qda.text" = "版本更新";
+
+/* Class = "UITabBarItem"; title = "添加线索"; ObjectID = "kQV-LL-zun"; */
+"kQV-LL-zun.title" = "添加线索";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "kd9-eg-eW5"; */
+"kd9-eg-eW5.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "处理老师"; ObjectID = "khS-b3-Y4o"; */
+"khS-b3-Y4o.text" = "处理老师";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "kpH-4I-pG8"; */
+"kpH-4I-pG8.title" = "个人设置";
+
+/* Class = "UIBarButtonItem"; title = "提交"; ObjectID = "krI-jK-8Zq"; */
+"krI-jK-8Zq.title" = "提交";
+
+/* Class = "UITabBarItem"; title = "常用功能"; ObjectID = "kxT-JE-59L"; */
+"kxT-JE-59L.title" = "常用功能";
+
+/* Class = "UILabel"; text = "网电销线索到店表"; ObjectID = "l38-a8-rB1"; */
+"l38-a8-rB1.text" = "网电销线索到店表";
+
+/* Class = "UILabel"; text = "创建时间"; ObjectID = "l4b-iR-4Dy"; */
+"l4b-iR-4Dy.text" = "创建时间";
+
+/* Class = "UITableViewSection"; headerTitle = "订交报表(仅网点可查)"; ObjectID = "lEh-rF-bYo"; */
+"lEh-rF-bYo.headerTitle" = "订交报表(仅网点可查)";
+
+/* Class = "UILabel"; text = "分享人电话"; ObjectID = "lKy-dk-lRF"; */
+"lKy-dk-lRF.text" = "分享人电话";
+
+/* Class = "UILabel"; text = "性别"; ObjectID = "lSZ-Sr-MX2"; */
+"lSZ-Sr-MX2.text" = "性别";
+
+/* Class = "UILabel"; text = "A级"; ObjectID = "lTh-z3-13r"; */
+"lTh-z3-13r.text" = "A级";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "laB-Yt-jUX"; */
+"laB-Yt-jUX.title" = "完成";
+
+/* Class = "UISegmentedControl"; lbr-gW-66j.segmentTitles[0] = "东南"; ObjectID = "lbr-gW-66j"; */
+"lbr-gW-66j.segmentTitles[0]" = "东南";
+
+/* Class = "UISegmentedControl"; lbr-gW-66j.segmentTitles[1] = "三菱"; ObjectID = "lbr-gW-66j"; */
+"lbr-gW-66j.segmentTitles[1]" = "三菱";
+
+/* Class = "UIButton"; normalTitle = "协助沟通"; ObjectID = "lfQ-r0-Arx"; */
+"lfQ-r0-Arx.normalTitle" = "协助沟通";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "m6q-p4-KcV"; */
+"m6q-p4-KcV.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "意向车型"; ObjectID = "m9s-gR-QDB"; */
+"m9s-gR-QDB.text" = "意向车型";
+
+/* Class = "UILabel"; text = "意向等级"; ObjectID = "mLt-To-EyV"; */
+"mLt-To-EyV.text" = "意向等级";
+
+/* Class = "UILabel"; text = "商谈内容摘要"; ObjectID = "mQH-Tc-eeH"; */
+"mQH-Tc-eeH.text" = "商谈内容摘要";
+
+/* Class = "UINavigationItem"; title = "跟进中线索"; ObjectID = "mRJ-IN-eu1"; */
+"mRJ-IN-eu1.title" = "跟进中线索";
+
+/* Class = "UILabel"; text = "区域"; ObjectID = "mUO-0N-Peg"; */
+"mUO-0N-Peg.text" = "区域";
+
+/* Class = "UILabel"; text = "是否网销"; ObjectID = "mY3-aN-NQm"; */
+"mY3-aN-NQm.text" = "是否网销";
+
+/* Class = "UILabel"; text = "线索来源"; ObjectID = "meS-lj-8JS"; */
+"meS-lj-8JS.text" = "线索来源";
+
+/* Class = "UITextField"; placeholder = "单位分"; ObjectID = "met-U2-4GL"; */
+"met-U2-4GL.placeholder" = "单位分";
+
+/* Class = "UILabel"; text = "入职时间:"; ObjectID = "mhl-np-qRm"; */
+"mhl-np-qRm.text" = "入职时间:";
+
+/* Class = "UILabel"; text = "站点简称"; ObjectID = "mv7-ZW-51g"; */
+"mv7-ZW-51g.text" = "站点简称";
+
+/* Class = "UILabel"; text = "活动名称"; ObjectID = "n7K-0M-93y"; */
+"n7K-0M-93y.text" = "活动名称";
+
+/* Class = "UINavigationItem"; title = "新增线索"; ObjectID = "nJG-Xm-vpC"; */
+"nJG-Xm-vpC.title" = "新增线索";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "nKN-BF-AiT"; */
+"nKN-BF-AiT.headerTitle" = " ";
+
+/* Class = "UINavigationItem"; title = "密码修改"; ObjectID = "nXz-le-urk"; */
+"nXz-le-urk.title" = "密码修改";
+
+/* Class = "UILabel"; text = "添加附件"; ObjectID = "nb9-9b-4nD"; */
+"nb9-9b-4nD.text" = "添加附件";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "nmx-DR-X9X"; */
+"nmx-DR-X9X.text" = "结束时间";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "nnI-Np-O9I"; */
+"nnI-Np-O9I.normalTitle" = "登录";
+
+/* Class = "UITableViewController"; title = "行驶证详细"; ObjectID = "noA-qt-mD5"; */
+"noA-qt-mD5.title" = "行驶证详细";
+
+/* Class = "UILabel"; text = "联系时间"; ObjectID = "o9K-to-7hG"; */
+"o9K-to-7hG.text" = "联系时间";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "oAW-Xk-z3t"; */
+"oAW-Xk-z3t.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "线索管理日报表(顾问)"; ObjectID = "obu-NF-A54"; */
+"obu-NF-A54.text" = "线索管理日报表(顾问)";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ohU-pj-p3m"; */
+"ohU-pj-p3m.text" = "Title";
+
+/* Class = "UILabel"; text = "意向品牌"; ObjectID = "om9-nk-xZA"; */
+"om9-nk-xZA.text" = "意向品牌";
+
+/* Class = "UITableViewSection"; headerTitle = "下次联系时间"; ObjectID = "oxF-Am-qDZ"; */
+"oxF-Am-qDZ.headerTitle" = "下次联系时间";
+
+/* Class = "UILabel"; text = "老师电话"; ObjectID = "pCS-6o-8lC"; */
+"pCS-6o-8lC.text" = "老师电话";
+
+/* Class = "UILabel"; text = "客       户"; ObjectID = "pSJ-Qm-tSm"; */
+"pSJ-Qm-tSm.text" = "客       户";
+
+/* Class = "UILabel"; text = "VIN"; ObjectID = "pVY-U8-Hr6"; */
+"pVY-U8-Hr6.text" = "VIN";
+
+/* Class = "UILabel"; text = "意向品牌"; ObjectID = "pWe-f2-jXO"; */
+"pWe-f2-jXO.text" = "意向品牌";
+
+/* Class = "UIBarButtonItem"; title = "提交"; ObjectID = "pZd-fh-sNd"; */
+"pZd-fh-sNd.title" = "提交";
+
+/* Class = "UILabel"; text = "新密码"; ObjectID = "pdj-iV-Ns7"; */
+"pdj-iV-Ns7.text" = "新密码";
+
+/* Class = "UILabel"; text = "意向车型"; ObjectID = "pxd-G4-7CC"; */
+"pxd-G4-7CC.text" = "意向车型";
+
+/* Class = "UILabel"; text = "销售积分查询"; ObjectID = "qTj-of-K6I"; */
+"qTj-of-K6I.text" = "销售积分查询";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "qeM-XB-MPt"; */
+"qeM-XB-MPt.title" = "完成";
+
+/* Class = "UIBarButtonItem"; title = "回复"; ObjectID = "qf1-3F-fCo"; */
+"qf1-3F-fCo.title" = "回复";
+
+/* Class = "UIBarButtonItem"; title = "提交"; ObjectID = "qqx-X1-d90"; */
+"qqx-X1-d90.title" = "提交";
+
+/* Class = "UILabel"; text = "车型"; ObjectID = "rCK-6r-v8L"; */
+"rCK-6r-v8L.text" = "车型";
+
+/* Class = "UINavigationItem"; title = "技术支援"; ObjectID = "rRb-pL-4al"; */
+"rRb-pL-4al.title" = "技术支援";
+
+/* Class = "UILabel"; text = "车  牌  号"; ObjectID = "re8-0a-zPN"; */
+"re8-0a-zPN.text" = "车  牌  号";
+
+/* Class = "UILabel"; text = "网电销线索到店表"; ObjectID = "re8-2n-9Q1"; */
+"re8-2n-9Q1.text" = "网电销线索到店表";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "rsn-WV-mrU"; */
+"rsn-WV-mrU.text" = "V1.0.1";
+
+/* Class = "UISegmentedControl"; sCv-EV-puB.segmentTitles[0] = "日期"; ObjectID = "sCv-EV-puB"; */
+"sCv-EV-puB.segmentTitles[0]" = "日期";
+
+/* Class = "UISegmentedControl"; sCv-EV-puB.segmentTitles[1] = "时间"; ObjectID = "sCv-EV-puB"; */
+"sCv-EV-puB.segmentTitles[1]" = "时间";
+
+/* Class = "UILabel"; text = "处理状态"; ObjectID = "sDo-pn-0BU"; */
+"sDo-pn-0BU.text" = "处理状态";
+
+/* Class = "UILabel"; text = "下订车型代码"; ObjectID = "sFH-A3-BDz"; */
+"sFH-A3-BDz.text" = "下订车型代码";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "sFa-gg-mpn"; */
+"sFa-gg-mpn.title" = "个人设置";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "sJz-xm-rJD"; */
+"sJz-xm-rJD.title" = "个人设置";
+
+/* Class = "UILabel"; text = "小范"; ObjectID = "sQN-jQ-OAH"; */
+"sQN-jQ-OAH.text" = "小范";
+
+/* Class = "UISegmentedControl"; sXA-BS-xs4.segmentTitles[0] = "跟进中"; ObjectID = "sXA-BS-xs4"; */
+"sXA-BS-xs4.segmentTitles[0]" = "跟进中";
+
+/* Class = "UISegmentedControl"; sXA-BS-xs4.segmentTitles[1] = "待下订"; ObjectID = "sXA-BS-xs4"; */
+"sXA-BS-xs4.segmentTitles[1]" = "待下订";
+
+/* Class = "UISegmentedControl"; sXA-BS-xs4.segmentTitles[2] = "战败"; ObjectID = "sXA-BS-xs4"; */
+"sXA-BS-xs4.segmentTitles[2]" = "战败";
+
+/* Class = "UISegmentedControl"; sXA-BS-xs4.segmentTitles[3] = "无效"; ObjectID = "sXA-BS-xs4"; */
+"sXA-BS-xs4.segmentTitles[3]" = "无效";
+
+/* Class = "UITableViewSection"; headerTitle = "意向信息"; ObjectID = "saz-AP-erL"; */
+"saz-AP-erL.headerTitle" = "意向信息";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "sbj-Wy-i6R"; */
+"sbj-Wy-i6R.text" = "Title";
+
+/* Class = "UISegmentedControl"; se4-Db-vrN.segmentTitles[0] = "H级"; ObjectID = "se4-Db-vrN"; */
+"se4-Db-vrN.segmentTitles[0]" = "H级";
+
+/* Class = "UISegmentedControl"; se4-Db-vrN.segmentTitles[1] = "A级"; ObjectID = "se4-Db-vrN"; */
+"se4-Db-vrN.segmentTitles[1]" = "A级";
+
+/* Class = "UISegmentedControl"; se4-Db-vrN.segmentTitles[2] = "B级"; ObjectID = "se4-Db-vrN"; */
+"se4-Db-vrN.segmentTitles[2]" = "B级";
+
+/* Class = "UISegmentedControl"; se4-Db-vrN.segmentTitles[3] = "C级"; ObjectID = "se4-Db-vrN"; */
+"se4-Db-vrN.segmentTitles[3]" = "C级";
+
+/* Class = "UISegmentedControl"; se4-Db-vrN.segmentTitles[4] = "未知"; ObjectID = "se4-Db-vrN"; */
+"se4-Db-vrN.segmentTitles[4]" = "未知";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "siL-6B-Lev"; */
+"siL-6B-Lev.text" = "结束时间";
+
+/* Class = "UILabel"; text = "长期跟进未成交表(顾问)"; ObjectID = "t54-nH-dWQ"; */
+"t54-nH-dWQ.text" = "长期跟进未成交表(顾问)";
+
+/* Class = "UITableViewSection"; headerTitle = "线索考核管控表(总部/网点可查)"; ObjectID = "tAL-7L-OD1"; */
+"tAL-7L-OD1.headerTitle" = "线索考核管控表(总部/网点可查)";
+
+/* Class = "UILabel"; text = "电话"; ObjectID = "tAf-wD-9j7"; */
+"tAf-wD-9j7.text" = "电话";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tDI-eb-8jY"; */
+"tDI-eb-8jY.text" = "Title";
+
+/* Class = "UILabel"; text = "确认密码"; ObjectID = "tF7-H9-gRR"; */
+"tF7-H9-gRR.text" = "确认密码";
+
+/* Class = "UILabel"; text = "活动名称"; ObjectID = "tHY-5D-ib2"; */
+"tHY-5D-ib2.text" = "活动名称";
+
+/* Class = "UILabel"; text = "版本更新"; ObjectID = "tiA-Cp-bAG"; */
+"tiA-Cp-bAG.text" = "版本更新";
+
+/* Class = "UILabel"; text = "客户意向区域"; ObjectID = "ttt-wS-O4R"; */
+"ttt-wS-O4R.text" = "客户意向区域";
+
+/* Class = "UITextField"; placeholder = "标题和内容"; ObjectID = "uJK-5o-ibJ"; */
+"uJK-5o-ibJ.placeholder" = "标题和内容";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uMU-kp-8lQ"; */
+"uMU-kp-8lQ.text" = "Title";
+
+/* Class = "UILabel"; text = "分享人"; ObjectID = "uPX-wd-ZVy"; */
+"uPX-wd-ZVy.text" = "分享人";
+
+/* Class = "UILabel"; text = "意向车型"; ObjectID = "uQg-jC-s1z"; */
+"uQg-jC-s1z.text" = "意向车型";
+
+/* Class = "UITabBarItem"; title = "线索管理"; ObjectID = "ub1-NQ-ueJ"; */
+"ub1-NQ-ueJ.title" = "线索管理";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "v9D-7r-WDY"; */
+"v9D-7r-WDY.text" = "0";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[0] = "去电"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[0]" = "去电";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[1] = "来电"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[1]" = "来电";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[2] = "到店"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[2]" = "到店";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[3] = "试驾"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[3]" = "试驾";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[4] = "上门拜访"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[4]" = "上门拜访";
+
+/* Class = "UISegmentedControl"; vCw-Tc-JOO.segmentTitles[5] = "微信"; ObjectID = "vCw-Tc-JOO"; */
+"vCw-Tc-JOO.segmentTitles[5]" = "微信";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "vWs-5T-66v"; */
+"vWs-5T-66v.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "报表"; ObjectID = "vhz-Ry-vAC"; */
+"vhz-Ry-vAC.title" = "报表";
+
+/* Class = "UILabel"; text = "消息推送"; ObjectID = "wEy-cw-ax8"; */
+"wEy-cw-ax8.text" = "消息推送";
+
+/* Class = "UILabel"; text = "到店时间"; ObjectID = "wov-g5-Hhy"; */
+"wov-g5-Hhy.text" = "到店时间";
+
+/* Class = "UIBarButtonItem"; title = "完成"; ObjectID = "wwg-wJ-Qqr"; */
+"wwg-wJ-Qqr.title" = "完成";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "x1l-99-3Hz"; */
+"x1l-99-3Hz.title" = "编辑";
+
+/* Class = "UIButton"; normalTitle = "联系记录"; ObjectID = "x2U-jo-Cez"; */
+"x2U-jo-Cez.normalTitle" = "联系记录";
+
+/* Class = "UILabel"; text = "备       注"; ObjectID = "x4v-Ia-bXu"; */
+"x4v-Ia-bXu.text" = "备       注";
+
+/* Class = "UINavigationItem"; title = "详细"; ObjectID = "x6d-yU-mpa"; */
+"x6d-yU-mpa.title" = "详细";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "x98-Zk-R68"; */
+"x98-Zk-R68.text" = "V1.0.1";
+
+/* Class = "UILabel"; text = "V1.0.1"; ObjectID = "x9P-kg-27j"; */
+"x9P-kg-27j.text" = "V1.0.1";
+
+/* Class = "UILabel"; text = "交车时间:"; ObjectID = "xD8-PI-SRy"; */
+"xD8-PI-SRy.text" = "交车时间:";
+
+/* Class = "UISegmentedControl"; xQZ-Jf-hia.segmentTitles[0] = "正序"; ObjectID = "xQZ-Jf-hia"; */
+"xQZ-Jf-hia.segmentTitles[0]" = "正序";
+
+/* Class = "UISegmentedControl"; xQZ-Jf-hia.segmentTitles[1] = "倒序"; ObjectID = "xQZ-Jf-hia"; */
+"xQZ-Jf-hia.segmentTitles[1]" = "倒序";
+
+/* Class = "UILabel"; text = "姓名:"; ObjectID = "xV4-pO-Qhz"; */
+"xV4-pO-Qhz.text" = "姓名:";
+
+/* Class = "UINavigationItem"; title = "新建"; ObjectID = "xa0-3b-NFd"; */
+"xa0-3b-NFd.title" = "新建";
+
+/* Class = "UITabBarItem"; title = "个人设置"; ObjectID = "yAa-Qm-mxQ"; */
+"yAa-Qm-mxQ.title" = "个人设置";
+
+/* Class = "UINavigationItem"; title = "短信编辑"; ObjectID = "yAf-je-zAU"; */
+"yAf-je-zAU.title" = "短信编辑";
+
+/* Class = "UILabel"; text = "手机号码"; ObjectID = "yLF-94-gnV"; */
+"yLF-94-gnV.text" = "手机号码";
+
+/* Class = "UILabel"; text = "状态"; ObjectID = "yOW-hS-FRE"; */
+"yOW-hS-FRE.text" = "状态";
+
+/* Class = "UILabel"; text = "积分用于兑换现金:"; ObjectID = "ya9-mq-g0X"; */
+"ya9-mq-g0X.text" = "积分用于兑换现金:";
+
+/* Class = "UISegmentedControl"; ykc-qb-AZC.segmentTitles[0] = "未知"; ObjectID = "ykc-qb-AZC"; */
+"ykc-qb-AZC.segmentTitles[0]" = "未知";
+
+/* Class = "UISegmentedControl"; ykc-qb-AZC.segmentTitles[1] = "H"; ObjectID = "ykc-qb-AZC"; */
+"ykc-qb-AZC.segmentTitles[1]" = "H";
+
+/* Class = "UISegmentedControl"; ykc-qb-AZC.segmentTitles[2] = "A"; ObjectID = "ykc-qb-AZC"; */
+"ykc-qb-AZC.segmentTitles[2]" = "A";
+
+/* Class = "UISegmentedControl"; ykc-qb-AZC.segmentTitles[3] = "B"; ObjectID = "ykc-qb-AZC"; */
+"ykc-qb-AZC.segmentTitles[3]" = "B";
+
+/* Class = "UISegmentedControl"; ykc-qb-AZC.segmentTitles[4] = "C"; ObjectID = "ykc-qb-AZC"; */
+"ykc-qb-AZC.segmentTitles[4]" = "C";
+
+/* Class = "UINavigationItem"; title = "回复"; ObjectID = "ymg-Or-gKw"; */
+"ymg-Or-gKw.title" = "回复";
+
+/* Class = "UILabel"; text = "电       话"; ObjectID = "yy7-BH-lU4"; */
+"yy7-BH-lU4.text" = "电       话";
+
+/* Class = "UINavigationItem"; title = "线索详情"; ObjectID = "z0u-uV-3Qz"; */
+"z0u-uV-3Qz.title" = "线索详情";
+
+/* Class = "UIButton"; normalTitle = "全部线索"; ObjectID = "zBU-9Q-5u9"; */
+"zBU-9Q-5u9.normalTitle" = "全部线索";
+
+/* Class = "UIButton"; selectedTitle = "取消选择"; ObjectID = "zBU-9Q-5u9"; */
+"zBU-9Q-5u9.selectedTitle" = "取消选择";
+
+/* Class = "UINavigationItem"; title = "选择照片"; ObjectID = "zGc-Rf-jV3"; */
+"zGc-Rf-jV3.title" = "选择照片";
+
+/* Class = "UILabel"; text = "开始时间"; ObjectID = "zLE-he-Cia"; */
+"zLE-he-Cia.text" = "开始时间";
+
+/* Class = "UINavigationItem"; title = "线索编辑"; ObjectID = "zNd-Up-xpP"; */
+"zNd-Up-xpP.title" = "线索编辑";
+
+/* Class = "UIButton"; normalTitle = "拨打电话"; ObjectID = "zQJ-MO-0o3"; */
+"zQJ-MO-0o3.normalTitle" = "拨打电话";
+
+/* Class = "UINavigationItem"; title = "详细信息"; ObjectID = "zXs-Nn-AsG"; */
+"zXs-Nn-AsG.title" = "详细信息";
+
+/* Class = "UIButton"; normalTitle = "重新分配"; ObjectID = "zkH-9e-CoW"; */
+"zkH-9e-CoW.normalTitle" = "重新分配";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zlq-Fb-SoF"; */
+"zlq-Fb-SoF.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "上传图片"; ObjectID = "zsc-rN-fdn"; */
+"zsc-rN-fdn.title" = "上传图片";
